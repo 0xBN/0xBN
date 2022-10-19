@@ -30,6 +30,10 @@ I'm a full-stack developer building my version of the digital world one step at 
 
 #
 
+<details>
+ <summary><h3>👨‍💻 Brian's Coding Journey</h3></summary>
+ I have always loved technology and how it helps to solve daily problems. In my previous work roles, I was the go-to person for anything Excel or data-related. After some time away from professional work environment, I decided to go all-in on learning how to code and pivot careers.  I am currently finishing up The Odin Project, and I am very amazed looking back on where I came from versus what I can code today. After spending a lot of time with the course, I have built a few projects and am quite confident that I can build most apps given my newfound skills (and Google of course!). I have a burning desire to expand my skillset and tackle projects that will create a huge positive impact.
+
 <!--
 **0xBN/0xBN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

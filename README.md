@@ -20,6 +20,16 @@ I'm a full-stack developer building my version of the digital world one step at 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+#
+
+### 📊 Stats
+
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xBN&show_icons=true&theme=gruvbox)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=0xBN&theme=gruvbox&border_radius=4.5)
+
+#
+
 <!--
 **0xBN/0xBN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

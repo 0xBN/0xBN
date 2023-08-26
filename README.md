@@ -21,14 +21,14 @@ I'm a full-stack developer building my version of the digital world one step at 
 <br />
 
 #
-
+<!--
 ### 📊 Stats
 
 ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xBN&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=0xBN&theme=gruvbox&border_radius=4.5)
 
-#
+# -->
 
 <details>
  <summary><h3>👨‍💻 Brian's Coding Journey</h3></summary>
